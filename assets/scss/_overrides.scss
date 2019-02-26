@@ -56,6 +56,18 @@ body {
   margin-bottom: 0;
 }
 
+/* Link Lists */
+.ui.inverted.link.list .item,
+.ui.inverted.link.list .item a:not(.ui),
+.ui.inverted.link.list a.item {
+  color: rgba(255,255,255,1);
+  @media (min-width: 820px) {
+    &:hover {
+      color: rgba(255,255,255,.5) !important;
+    }
+  }
+}
+
 /* Segment */
 .ui[class*="very padded"].segment {
   @media (max-width: 819px) {

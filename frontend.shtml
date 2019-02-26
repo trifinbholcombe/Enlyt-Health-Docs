@@ -27,9 +27,9 @@
       <div class="ui middle aligned grid">
         <div class="row">
           <div class="sixteen wide column">
-            <h1 class="first">Enlyt Health App & API Documentation</h1>
+            <h1 class="first">Fron End Documentation | Enlyt Health</h1>
             <p>Learn how to build, deploy, and manage your Enlyt Health app.</p>
-            <div class="ui horizontal section divider">Installation Guide</div>
+            <div class="ui horizontal section divider">Table of Contents</div>
             <h2>Application Setup</h2>
             <p>Text</p>
             <pre>npm install</pre>

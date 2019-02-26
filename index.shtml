@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Documentation - Enlyt Health</title>
+  <link rel="stylesheet" type="text/css" href="assets/css/semantic.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/app.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="js/semantic.min.js"></script>
+</head>
+<body>
+
+  <div class="ui container ramp-container">
+
+    <div class="ui grid">
+      <div class="row">
+        <div class="eight wide column">
+          <img src="assets/img/eh-logo-rev.svg" alt="Enlyt Health - The Patient Engagement Cloud&trade;" width="300"/>
+        </div>
+        <div class="right aligned eight wide column">
+          <!--#include virtual="nav.shtml" -->
+        </div>
+      </div>
+    </div>
+    <div class="ui very padded segment">
+      <div class="ui middle aligned grid">
+        <div class="row">
+          <div class="sixteen wide column">
+            <h1 class="first">Enlyt Health App & API Documentation</h1>
+            <p>Learn how to build, deploy, and manage your Enlyt Health app.</p>
+
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+
+  </div>
+
+
+
+</body>
+
+</html>
