@@ -46,6 +46,11 @@ body {
     margin-bottom: 1rem;
   }
 }
+.headerNav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
 #tfl {
   width: 120px;
   @media (min-width: 540px) {
