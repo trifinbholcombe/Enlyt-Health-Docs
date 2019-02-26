@@ -1,9 +1,0 @@
-<!-- nav -->
-<div class="ui large horizontal link list inverted">
-  <a href="frontend.html" class="item">
-    Front End Documentation
-  </a>
-  <a href="" class="item">
-    API Documentation
-  </a>
-</div>

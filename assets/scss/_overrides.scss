@@ -32,6 +32,7 @@ body {
 /* Main Container */
 .ramp-container {
   margin-top: 1rem;
+  min-height: 100vh;
   @media (min-width: 820px) {
     margin-top: 3rem;
   }
@@ -54,6 +55,13 @@ body {
     width: 200px;
   }
   margin-bottom: 0;
+}
+
+/* Responsive margin */
+@media (max-width: 819px) {
+  .m-marginB1rem {
+    margin-bottom: 1rem !important;
+  }
 }
 
 /* Link Lists */
@@ -128,6 +136,12 @@ h3 {
 h4 {
   &.ui.header {
     font-size: 1.25rem;
+  }
+}
+/* Responsive text alignment */
+@media (max-width: 819px) {
+  .m-text-center {
+    text-align: center !important;
   }
 }
 /* Pre / Code samples */
