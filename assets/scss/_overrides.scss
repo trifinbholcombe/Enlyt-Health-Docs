@@ -30,6 +30,15 @@ $white: #fff;
     }
   }
 }
+@media (max-width: 991px) {
+  .mobileStacked {
+    .button {
+      width: 100%;
+      margin-bottom: 1rem;
+      padding: 1rem .5rem;
+    }
+  }
+}
 
 /* Reset */
 html,body {
